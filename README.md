@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-auctioneer&exclude_repo=geolonia-pwamap-sample,g-auctioneer&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-auctioneer&exclude_repo=geolonia-pwamap-sample&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
